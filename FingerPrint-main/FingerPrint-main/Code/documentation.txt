@@ -1,0 +1,1140 @@
+Name: b bb ID: 22
+Date: 2019-10-29 Time: 16:19:14.261716
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2019-10-29 16:19:26.050356 
+:First name: b
+Last name: bb
+ID: 22
+Gender: male
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2019-10-29 Time: 16:45:02.186856
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2019-10-29 Time: 16:49:02.722428
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2019-11-16 Time: 18:55:09.951746
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2019-11-16 Time: 23:50:38.366163
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2019-11-16 Time: 23:51:51.404900
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2019-11-16 Time: 23:55:30.775912
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2019-11-17 18:11:11.580692 
+:First name: As
+Last name: Sa
+ID: 12
+Gender: male
+------------------------------------------------------------------------
+Name: As Sa ID: 12
+Date: 2019-11-17 Time: 18:24:06.375743
+Image: results/Biometrika_1000DPI-dmrml11.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: As Sa ID: 12
+Date: 2019-11-17 Time: 19:12:33.665304
+Image: results/Biometrika_1000DPI-dmrml11.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: As Sa ID: 12
+Date: 2019-11-17 Time: 21:38:34.379365
+Image: results/Biometrika_1000DPI-dmrml11.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: Some One ID: 152
+Date: 2019-12-30 Time: 16:12:26.911453
+Image: results/Biometrika_1000DPIAHL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2019-12-30 16:12:32.954930 
+:First name: Some
+Last name: One
+ID: 152
+Gender: male
+------------------------------------------------------------------------
+Name: b bb ID: 22
+Date: 2020-01-09 Time: 16:04:05.317024
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2020-09-29 12:31:41.130947 
+:First name: Ab
+Last name: Ba
+ID: 321
+Gender: male
+------------------------------------------------------------------------
+Creat new user on: 2020-09-29 12:38:11.296482 
+:First name: Ba
+Last name: aB
+ID: 2222
+Gender: male
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2020-11-23 Time: 21:25:45.957939
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2020-11-23 Time: 21:40:14.570616
+Image: results/2L4.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2020-11-23 21:40:17.174527 
+:First name: 3
+Last name: 3
+ID: 3
+Gender: male
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2020-11-23 Time: 21:56:17.805023
+Image: results/2L4.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2020-11-23 21:56:19.373131 
+:First name: 4
+Last name: 4
+ID: 4
+Gender: male
+------------------------------------------------------------------------
+Name: 6 6 ID: 6
+Date: 2020-11-23 Time: 22:03:27.008481
+Image: results/2L4.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2020-11-23 22:03:32.590070 
+:First name: 6
+Last name: 6
+ID: 6
+Gender: male
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2020-11-23 Time: 22:28:11.824926
+Image: results/2L4.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2020-11-23 Time: 22:28:28.870494
+Image: results/2L4.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 7 7 ID: 7
+Date: 2020-11-23 Time: 23:03:38.684384
+Image: results/1R2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2020-11-23 23:03:40.027372 
+:First name: 7
+Last name: 7
+ID: 7
+Gender: male
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2020-12-14 Time: 21:18:29.987634
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2020-12-14 Time: 21:22:20.239735
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 13 14 ID: 15
+Date: 2020-12-14 Time: 21:27:23.886476
+Image: results/1R1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2020-12-14 21:27:26.388149 
+:First name: 13
+Last name: 14
+ID: 15
+Gender: male
+------------------------------------------------------------------------
+Name: Ba aB ID: 2222
+Date: 2021-05-22 Time: 22:17:08.989288
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: Ba aB ID: 2222
+Date: 2021-05-22 Time: 22:17:49.124655
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: A B ID: 2
+Date: 2021-05-22 Time: 22:18:17.131381
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 234 123 ID: 1234
+Date: 2021-05-22 Time: 22:18:50.227164
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2021-05-22 22:18:51.435273 
+:First name: 234
+Last name: 123
+ID: 1234
+Gender: female
+------------------------------------------------------------------------
+Name: A B ID: 2
+Date: 2021-05-22 Time: 22:25:31.450401
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 234 123 ID: 1234
+Date: 2021-05-22 Time: 22:26:09.179156
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 234 123 ID: 1234
+Date: 2021-05-22 Time: 22:44:55.586181
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: M500 A ID: 1234
+Date: 2021-05-22 Time: 22:49:51.496948
+Image: results/Biometrika_500DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2021-05-22 22:49:52.720884 
+:First name: M500
+Last name: A
+ID: 1234
+Gender: female
+------------------------------------------------------------------------
+Name: M1000 A ID: 4321
+Date: 2021-05-22 Time: 22:50:49.956970
+Image: results/Biometrika_1000DPI_MeravL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Creat new user on: 2021-05-22 22:50:51.009453 
+:First name: M1000
+Last name: A
+ID: 4321
+Gender: female
+------------------------------------------------------------------------
+Name: None None ID: 000
+Date: 2021-09-20 Time: 09:59:58.258969
+Image: results/000_L0_0.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2021-09-20 10:00:04.035184 
+:First name: DB000
+Last name: DB000
+ID: 000
+Gender: male
+------------------------------------------------------------------------
+Name: None None ID: 0000
+Date: 2021-09-20 Time: 10:01:15.328046
+Image: results/000_L0_1.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2021-09-20 10:01:38.988433 
+:First name: DB0000
+Last name: DB0000
+ID: 0000
+Gender: male
+------------------------------------------------------------------------
+Name: None None ID: 00000
+Date: 2021-09-20 Time: 10:02:11.752306
+Image: results/000_L0_2.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2021-09-20 10:02:15.243177 
+:First name: DB0000
+Last name: DB00000
+ID: 00000
+Gender: male
+------------------------------------------------------------------------
+Name: None None ID: 000000
+Date: 2021-09-20 Time: 10:02:56.739465
+Image: results/000_L0_0.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2021-09-20 10:03:11.706583 
+:First name: DBB000
+Last name: DBB000
+ID: 000000
+Gender: male
+------------------------------------------------------------------------
+Name: DBL000 DBL000 ID: 1000
+Date: 2021-09-20 Time: 10:41:40.907914
+Image: results/000_L0_0.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2021-09-20 10:41:49.417620 
+:First name: DBL000
+Last name: DBL000
+ID: 1000
+Gender: male
+------------------------------------------------------------------------
+Name: None None ID: 000
+Date: 2021-09-20 Time: 10:54:40.849138
+Image: results/000_L0_0.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2021-09-20 10:54:47.708222 
+:First name: DBL000
+Last name: DBL000
+ID: 000
+Gender: male
+------------------------------------------------------------------------
+Name: DBL000 DBL000 ID: 1000
+Date: 2021-09-20 Time: 10:56:45.037633
+Image: results/000_L0_0.bmp 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2022-10-02 Time: 11:51:00.019135
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2022-10-02 Time: 11:52:27.330302
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2022-10-02 Time: 12:32:01.763807
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2022-10-02 Time: 12:33:17.187087
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: Some One ID: 999
+Date: 2022-10-02 Time: 12:38:01.151752
+Image: results/Biometrika_1000DPIAHL11.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2022-10-02 12:39:11.376713 
+:First name: Some
+Last name: One
+ID: 999
+Gender: male
+------------------------------------------------------------------------
+Name: Some One ID: 999
+Date: 2022-10-02 Time: 12:39:43.862647
+Image: results/Biometrika_1000DPIAHL11.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: DBL000 DBL000 ID: 1000
+Date: 2023-01-08 Time: 15:24:33.127024
+Image: results/Biometrika_1000DPIAHL5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: DBL000 DBL000 ID: 1000
+Date: 2023-01-08 Time: 15:27:26.756893
+Image: results/Biometrika_1000DPIAHL5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: Bio Metrika ID: 1001
+Date: 2023-01-08 Time: 15:29:12.920863
+Image: results/Biometrika_1000DPIAHR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-01-08 15:29:16.221714 
+:First name: Bio
+Last name: Metrika
+ID: 1001
+Gender: male
+------------------------------------------------------------------------
+Name: Bio Metrika ID: 1001
+Date: 2023-01-08 Time: 15:29:41.489230
+Image: results/Biometrika_1000DPIAHR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: Bio Bio ID: 1002
+Date: 2023-01-08 Time: 15:34:24.862950
+Image: results/Biometrika_1000DPIAHR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-01-08 15:34:26.930290 
+:First name: Bio
+Last name: Bio
+ID: 1002
+Gender: male
+------------------------------------------------------------------------
+Name: Tt Ee ID: 322346180
+Date: 2023-02-01 Time: 16:12:09.070948
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-01 16:12:15.331895 
+:First name: Tt
+Last name: Ee
+ID: 322346180
+Gender: female
+------------------------------------------------------------------------
+Name: Tt Ee ID: 322346180
+Date: 2023-02-01 Time: 16:20:17.556236
+Image: results/Biometrika_1000DPIAH12.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 17:56:20.633629
+Image: results/1L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-01 17:56:24.164315 
+:First name: 1
+Last name: 1
+ID: 1
+Gender: male
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 17:58:15.919192
+Image: results/1L2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 17:59:02.329128
+Image: results/1L2_1.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 18:00:18.126120
+Image: results/1L2_3.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 21:11:21.381302
+Image: results/1L2_6.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 21:11:26.259708
+Image: results/1L2_6.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 21:11:29.612404
+Image: results/1L2_6.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 21:11:31.399060
+Image: results/1L2_6.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-01 Time: 21:20:18.381285
+Image: results/1L2_6.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:15:17.656036
+Image: results/1L2_4.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:15:40.997125
+Image: results/1L2_5.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:16:15.468068
+Image: results/1L3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:17:01.404629
+Image: results/1L4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:17:23.924457
+Image: results/1L5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:17:50.426972
+Image: results/1R1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:18:13.406991
+Image: results/1R2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:18:33.520040
+Image: results/1R3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:18:59.927145
+Image: results/1R4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: 1 1 ID: 1
+Date: 2023-02-21 Time: 12:19:22.320324
+Image: results/1R5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:43:32.019308
+Image: results/2L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 12:43:33.179127 
+:First name: 2
+Last name: 2
+ID: 2
+Gender: female
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:45:21.704375
+Image: results/2L2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:45:42.561677
+Image: results/2L3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:45:59.765232
+Image: results/2L4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:46:22.763704
+Image: results/2L5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:46:44.974459
+Image: results/2R1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:47:03.592196
+Image: results/2R2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:47:22.068641
+Image: results/2R3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:48:04.319645
+Image: results/2R4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: 2 2 ID: 2
+Date: 2023-02-21 Time: 12:48:24.570886
+Image: results/2R5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:48:44.919022
+Image: results/3L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 12:48:46.071425 
+:First name: 3
+Last name: 3
+ID: 3
+Gender: male
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:49:58.843147
+Image: results/3L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:50:48.542033
+Image: results/3L2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:51:16.072280
+Image: results/3L3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:51:33.500915
+Image: results/3L4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:51:58.028952
+Image: results/3L5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:52:23.952481
+Image: results/3R1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:52:43.741726
+Image: results/3R2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:53:19.495149
+Image: results/3R3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:53:53.932129
+Image: results/3R4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: 3 3 ID: 3
+Date: 2023-02-21 Time: 12:54:11.420027
+Image: results/3R5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 12:54:30.968427
+Image: results/4L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 12:54:31.842471 
+:First name: 4
+Last name: 4
+ID: 4
+Gender: female
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 12:59:08.678908
+Image: results/4L2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 12:59:43.087543
+Image: results/4L3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:00:09.155708
+Image: results/4L4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:02:45.476569
+Image: results/4L5.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:30:37.734147
+Image: results/4L5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:30:55.557190
+Image: results/4L5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:31:26.184071
+Image: results/4R1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:31:52.331660
+Image: results/4R2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 13:32:18.295111
+Image: results/4R3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 14:45:18.103966
+Image: results/4R4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: 4 4 ID: 4
+Date: 2023-02-21 Time: 14:45:39.569038
+Image: results/4R5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:46:31.005015
+Image: results/5L1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 14:46:32.148369 
+:First name: 5
+Last name: 5
+ID: 5
+Gender: male
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:46:59.960043
+Image: results/5L2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:48:03.167959
+Image: results/5L3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:48:33.762145
+Image: results/5L4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:49:26.118425
+Image: results/5L5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:50:08.025016
+Image: results/5R1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:50:41.358694
+Image: results/5R2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:51:34.855120
+Image: results/5R3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:52:01.213808
+Image: results/5R4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: 5 5 ID: 5
+Date: 2023-02-21 Time: 14:52:28.654570
+Image: results/5R5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:54:00.816066
+Image: results/AAL1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 14:54:02.026802 
+:First name: AA
+Last name: AA
+ID: 11
+Gender: female
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:54:53.088978
+Image: results/AAL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:55:21.026919
+Image: results/AAL3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:55:53.258829
+Image: results/AAL4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:56:21.305208
+Image: results/AAL5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:56:56.483184
+Image: results/AAR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:57:22.904839
+Image: results/AAR2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:57:51.018929
+Image: results/AAR3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:58:19.376228
+Image: results/AAR4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 14:58:40.961151
+Image: results/AAR5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: AA AA ID: 11
+Date: 2023-02-21 Time: 15:04:17.958578
+Image: results/AAR5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:05:33.845225
+Image: results/ABL1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 15:05:34.952937 
+:First name: AB
+Last name: AB
+ID: 12
+Gender: male
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:06:10.280993
+Image: results/ABL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:06:43.699443
+Image: results/ABL3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:07:54.499822
+Image: results/ABL4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:08:34.919263
+Image: results/ABL5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:09:13.367966
+Image: results/ABR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:09:39.944247
+Image: results/ABR2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:10:10.985453
+Image: results/ABR3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:10:53.254199
+Image: results/ABR4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: AB AB ID: 12
+Date: 2023-02-21 Time: 15:12:19.539226
+Image: results/ABR5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:13:10.026691
+Image: results/ACL1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 15:13:10.819524 
+:First name: AC
+Last name: AC
+ID: 13
+Gender: female
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:13:46.529644
+Image: results/ACL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:14:12.247887
+Image: results/ACL3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:14:51.502451
+Image: results/ACL4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:15:45.910759
+Image: results/ACL5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:16:46.616131
+Image: results/ACR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:17:37.989847
+Image: results/ACR2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:18:09.604123
+Image: results/ACR3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:20:10.366789
+Image: results/ACR4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: AC AC ID: 13
+Date: 2023-02-21 Time: 15:20:45.154992
+Image: results/ACR5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:21:35.070159
+Image: results/ADL1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 15:21:36.266252 
+:First name: AD
+Last name: AD
+ID: 14
+Gender: female
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:22:16.288214
+Image: results/ADL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:22:58.713100
+Image: results/ADL3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:23:29.998526
+Image: results/ADL4.tif 
+Match to: 
+Hand:  Left, finger: ring finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:24:05.150637
+Image: results/ADL5.tif 
+Match to: 
+Hand:  Left, finger: little finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:24:35.178163
+Image: results/ADR1.tif 
+Match to: 
+Hand:  Right, finger: thumb
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:25:04.488976
+Image: results/ADR2.tif 
+Match to: 
+Hand:  Right, finger: index finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:25:32.259330
+Image: results/ADR3.tif 
+Match to: 
+Hand:  Right, finger: middle finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:26:08.734753
+Image: results/ADR4.tif 
+Match to: 
+Hand:  Right, finger: ring finger
+------------------------------------------------------------------------
+Name: AD AD ID: 14
+Date: 2023-02-21 Time: 15:26:31.063363
+Image: results/ADR5.tif 
+Match to: 
+Hand:  Right, finger: little finger
+------------------------------------------------------------------------
+Name: AE AE ID: 15
+Date: 2023-02-21 Time: 15:47:46.590245
+Image: results/AEL1.tif 
+Match to: 
+Hand:  Left, finger: thumb
+------------------------------------------------------------------------
+Creat new user on: 2023-02-21 15:47:47.449740 
+:First name: AE
+Last name: AE
+ID: 15
+Gender: male
+------------------------------------------------------------------------
+Name: AE AE ID: 15
+Date: 2023-02-21 Time: 15:48:39.643621
+Image: results/AEL2.tif 
+Match to: 
+Hand:  Left, finger: index finger
+------------------------------------------------------------------------
+Name: AE AE ID: 15
+Date: 2023-02-21 Time: 15:49:07.122433
+Image: results/AEL3.tif 
+Match to: 
+Hand:  Left, finger: middle finger
+------------------------------------------------------------------------

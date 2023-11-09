@@ -1,0 +1,142 @@
+On 21/07/2019 16:49:25
+Filename: C:/Users/user/PycharmProjects/Finger_Print/database/1L1.tif
+Threshold is 255
+DB path: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships
+
+Start
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrml11.tif
+MSE before threshold: 32202.800973
+index:  0 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrml12.tif
+MSE before threshold: 41153.706501
+index:  1 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr1.tif
+MSE before threshold: 44024.056923
+index:  2 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr11.tif
+MSE before threshold: 43809.784962
+index:  3 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr12.tif
+MSE before threshold: 41648.755359
+index:  4 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr2.tif
+MSE before threshold: 32444.97375
+index:  5 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr3.tif
+MSE before threshold: 39318.161082
+index:  6 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr4.tif
+MSE before threshold: 28535.126043
+index:  7 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-dmrmr5.tif
+MSE before threshold: 37637.917755
+index:  8 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-l5.tif
+MSE before threshold: 26796.637257
+index:  9 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ym3.tif
+MSE before threshold: 25822.201287
+index:  10 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ym4.tif
+MSE before threshold: 20349.258225
+index:  11 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-yml10.tif
+MSE before threshold: 23076.662925
+index:  12 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-yml11.tif
+MSE before threshold: 25042.642716
+index:  13 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-yml2.tif
+MSE before threshold: 27042.753339
+index:  14 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-yml3.tif
+MSE before threshold: 22808.248716
+index:  15 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-yml4.tif
+MSE before threshold: 26413.618155
+index:  16 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ymr10.tif
+MSE before threshold: 25889.588199
+index:  17 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ymr11.tif
+MSE before threshold: 27628.261908
+index:  18 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ymr12.tif
+MSE before threshold: 29522.226021
+index:  19 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ymr13.tif
+MSE before threshold: 35594.716863
+index:  20 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ymr2.tif
+MSE before threshold: 25343.318691
+index:  21 
+
+----------------------------------------------
+Filename: C:\Users\user\PycharmProjects\Finger_Print\database\Relationships\Biometrika_1000DPI-ymr5.tif
+MSE before threshold: 22757.691267
+index:  22 
+
+----------------------------------------------
+End
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+There are not enough matches.
+
+Found 0 matches as follow:
+
+Run time: --- 17.22035837173462 seconds ---
+
+==============================================
